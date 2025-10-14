@@ -8,3 +8,8 @@ specialist
 island
 paradise
 spelunking
+mining
+discovering
+exploring
+belay
+pickaxe
