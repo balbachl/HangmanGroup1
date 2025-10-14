@@ -13,3 +13,9 @@ discovering
 exploring
 belay
 pickaxe
+hammer
+helmet
+flashlight
+rope
+gloves
+boots
