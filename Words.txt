@@ -19,3 +19,4 @@ flashlight
 rope
 gloves
 boots
+backpack
