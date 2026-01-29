@@ -20,3 +20,6 @@ rope
 gloves
 boots
 backpack
+dogman
+baseball
+window
