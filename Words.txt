@@ -44,3 +44,7 @@ corn
 maze
 scary
 boo
+greenhouse
+sunflower
+tomato
+garden
